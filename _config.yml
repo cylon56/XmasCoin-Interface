@@ -4,17 +4,17 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://cylon56.github.io"
-baseurl: ""
+#url: "http://cylon56.github.io"
+#baseurl: xmascoin-interface"
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+url: "http://cylon56.github.io/xmascoin-interface/"
+baseurl: "/xmascoin-interface/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Michael Lewellen
+title: XmasCoin
 
 # Short description of your site
 description: Website and Blog
@@ -23,9 +23,9 @@ description: Website and Blog
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Speaking: "speaking"
-  Contact: "contact"
+  #About Me: "aboutme"
+  #Speaking: "speaking"
+  #Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -55,7 +55,7 @@ author:
   name: Michael Lewellen
   email: "michaelnlewellen@gmail.com"
   facebook: yourname  # eg. daattali
-  github: cylon56    # eg. daattali
+  github: cylon56/xmascoin    # eg. daattali
   twitter: LewellenMichael   # eg. daattali
   reddit: yourname    # eg. daattali
   calendly: "/michaelnlewellen/meeting-with-michael/"
@@ -77,12 +77,12 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  calendly: true
-  twitter: true
+  calendly: false
+  twitter: false
   google-plus: false
   github: true
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
@@ -103,7 +103,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MichaelLewellen.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "XmasCoin.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
