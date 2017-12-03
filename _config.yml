@@ -4,12 +4,12 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-#url: "http://cylon56.github.io"
+url: "http://cylon56.github.io"
 #baseurl: xmascoin-interface"
 
 # If you are building a GitHub project page then use these settings:
-url: "http://cylon56.github.io/xmascoin-interface/"
-baseurl: "/xmascoin-interface/"
+#url: "http://cylon56.github.io/xmascoin-interface/"
+#baseurl: "/xmascoin-interface/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
