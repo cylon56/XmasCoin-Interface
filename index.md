@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Michael Lewellen
-subtitle: Blockchain Developer | Crypto Consultant
+title: XmasCoin
+subtitle: Spreading holiday cheer via the Ethereum blockchain
 use-site-title: true
 bigimg: 'img/winter_background.jpg'
 ---
