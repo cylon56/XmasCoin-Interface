@@ -6,9 +6,12 @@ use-site-title: true
 bigimg: 'img/winter_background.jpg'
 ---
 
-<h1 class="text-center">Still Under Development</h1>
+<h1 class="text-center">XmasCoin Contract: [0x6de8d68b045d8939681c10542ff9072a543a5007](https://etherscan.io/address/0x6de8d68b045d8939681c10542ff9072a543a5007)</h1>
 
-<h2 class="text-center">Don't worry. Everything will be ready by Christmas Eve</h2>
+
+<h2 class="text-center">Claim Box Is Still Under Development</h2>
+
+<h3 class="text-center">Don't worry. Everything will be ready by Christmas Eve</h3>
 
 
 <div class="spacer"></div>
