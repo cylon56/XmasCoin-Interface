@@ -6,8 +6,8 @@ use-site-title: true
 bigimg: 'img/winter_background.jpg'
 ---
 
-#XmasCoin Contract: 
-##[0x6de8d68b045d8939681c10542ff9072a543a5007](https://etherscan.io/address/0x6de8d68b045d8939681c10542ff9072a543a5007)
+# XmasCoin Contract: 
+## [0x6de8d68b045d8939681c10542ff9072a543a5007](https://etherscan.io/address/0x6de8d68b045d8939681c10542ff9072a543a5007)
 
 
 <h2 class="text-center">Claim Box Is Still Under Development</h2>
